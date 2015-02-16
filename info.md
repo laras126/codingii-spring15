@@ -25,7 +25,7 @@ Room 515
 **Instructor:**<br>
 Lara Schenck<br>
 [lara@notlaura.com](mailto:lara@notlaura.com)<br>
-
+	
 **Email list:**<br>
 codingii-spring15@googlegroups.com <br>
 

@@ -4,7 +4,7 @@ email: lara@notlaura.com
 description: > # this means to ignore newlines until "baseurl:"
   Saturdays 1-4pm, Room 515<br>
   February 14 - April 25
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/codingii-spring15" # the subpath of your site, e.g. /blog/
 url: "http://laras126.github.io/codingii-spring15/" # the base hostname & protocol for your site
 twitter_username: laras126
 github_username:  laras126
