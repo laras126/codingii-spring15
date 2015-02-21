@@ -38,7 +38,13 @@ Code Review, Q &amp; A, and demos.
 
 #### <span class="post-title-pre">Together:</span> Create site folder in command line.
 
-#### <span class="post-title-pre">Exercise:</span> Start on Assignment 1.
+#### <span class="post-title-pre">Exercise:</span> Start on [Assignment 1](https://prattcodingii.hackpad.com/Coding-II-Assignment-1-UpRQSUE4BZS).
+
+If you missed class:
+
+* Download the [starter files](http://stuff.notlaura.com/downloads/codingii-assignment-1.zip).
+* Go to [Assignment 1 in Hackpad](https://prattcodingii.hackpad.com/Coding-II-Assignment-1-UpRQSUE4BZS) and duplicate it. Track your progress.
+
 <div class="post-todos" markdown="1">
 
 ### For Next Time
@@ -66,5 +72,6 @@ Progressive enhancement and the 'separation of concerns' come into play here as 
 
 #### To do:
 
-* Start on Assignment 1. Bring questions for next time.
+* Spend some time on Assignment 1. Bring questions for next time.
+
 </div>
