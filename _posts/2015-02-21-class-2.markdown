@@ -11,7 +11,7 @@ categories: class
 ## The Plan
 
 * Housekeeping - all good?
-* Present clickhole
+* Eduardo presents click-hole
 
 #### <span class="post-title-pre">Lecture:</span> How the Internet works
 
@@ -23,11 +23,9 @@ categories: class
 
 #### <span class="post-title-pre">Code:</span> Take a look at Welcome exercise
 
-Answer questions, demos.
-
+Code Review, Q &amp; A, and demos.
 
 #### Break
-
 
 #### <span class="post-title-pre">Lecture:</span> What's on a server?
 
@@ -38,17 +36,35 @@ Answer questions, demos.
 **Keywords:** Unix, LAMP, command line<br>
 **Unix Commands:** <code>cd</code>, <code>ls</code>, <code>touch</code>, <code>mkdir</code>
 
-...
-
-
 #### <span class="post-title-pre">Together:</span> Create site folder in command line.
 
-...
-
 #### <span class="post-title-pre">Exercise:</span> Start on Assignment 1.
+<div class="post-todos" markdown="1">
 
 ### For Next Time
 
-* Get about 1/2 way through Assignment 1. Bring questions.
+#### Readings:
 
+This is a lot of reading - you don't need to read every word of these, but familiarize yourself with the terms **Progressive Enhancement**, **separation of concerns**, and **semantics**. These topics have been around of a while, but in the age of JS web apps, they are very hot topics.
 
+* [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This article is a classic.
+
+Next time we'll be talking about semantics, or how to name make our HTML meaningful and reusable. There were a couple of Smashing articles a while ago that debated this, and caused a stir.
+
+Look at these in order:
+
+1. [Semantic code: What? Why? How?](http://boagworld.com/dev/semantic-code-what-why-how/) and [Wikipedia Semtantic HTML](http://en.wikipedia.org/wiki/Semantic_HTML)
+2. [Our Pointless Pursuit of Semantic Value](http://www.smashingmagazine.com/2011/11/11/our-pointless-pursuit-of-semantic-value/) - Divya Manian
+3. [Pursuing Semantic Value](http://www.smashingmagazine.com/2011/11/12/pursuing-semantic-value/) - response to the above, Jeremy Keith
+
+Progressive enhancement and the 'separation of concerns' come into play here as well:
+
+* [On Progressive Enhancement](http://notlaura.com/progressive-enhancement/) - by me!
+* [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
+* [Progressive Enhancement: It’s About the Content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
+* [Websites vs. Webapps](http://css-tricks.com/poll-results-sites-vs-apps/) - CSS-Tricks
+
+#### To do:
+
+* Start on Assignment 1. Bring questions for next time.
+</div>
