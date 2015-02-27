@@ -124,6 +124,31 @@ pre {
       padding-left: 15px; } }
 
 /**
+ * Tables
+ */
+table {
+  width: 100%;
+  border: 1px solid #e8e8e8;
+  margin-bottom: 1.5em; }
+  table caption {
+    margin: 0 0 7px;
+    font-size: 0.75em;
+    color: #e8e8e8;
+    text-transform: uppercase;
+    letter-spacing: 1px; }
+
+td {
+  padding: 7px;
+  border: 1px solid #e8e8e8; }
+
+th {
+  background-color: #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  border-right: 1px solid #e8e8e8; }
+  th:last-child {
+    border-right: 0; }
+
+/**
  * Clearfix
  */
 .wrapper:after, .footer-col-wrapper:after, .post-nav:after {
@@ -316,12 +341,12 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
-.post-passed {
+.post-past {
   font-style: italic;
   color: #b5b5b5; }
-  .post-passed h2 {
+  .post-past h2 {
     text-decoration: line-through; }
-  .post-passed a {
+  .post-past a {
     color: #828282; }
 
 .post-todos {
@@ -335,6 +360,14 @@ pre {
 
 .post-nav .next {
   float: right; }
+
+.post-past {
+  font-style: italic;
+  color: #b5b5b5; }
+  .post-past h2 {
+    text-decoration: line-through; }
+  .post-past a {
+    color: #828282; }
 
 /**
  * Syntax highlighting styles
