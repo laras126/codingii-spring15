@@ -46,6 +46,27 @@ categories: class
 <div class="post-todos notice" markdown="1">
 
 ### For Next Time
-...
+
+#### Readings:
+
+Get your head around Responsive Web Design:
+
+* [Responsive Web Design](http://alistapart.com/article/responsive-web-design) - the original article! Still relevant.
+* [Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/) - how we approach RWD today.
+* [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/) - The different options in creating a responsive website. Takeaway: You can't really just "make a website responsive".
+
+Some key CSS concepts (seriously, it's important to do these):
+
+* [CSS Positioning Tutorial](http://learn.shayhowe.com/html-css/positioning-content/)
+	* [CSS Positioning 101](http://alistapart.com/article/css-positioning-101) - A List Apart
+	* [All About Floats](https://css-tricks.com/all-about-floats/) - CSS Tricks
+* [Responsive Web Design Tutorial](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+
+#### To do:
+
+* **Finish and email me a zip of Assignment 1**
+* Send one link to the email list
+
+
 
 </div>
