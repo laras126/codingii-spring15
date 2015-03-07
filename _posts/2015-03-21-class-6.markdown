@@ -2,7 +2,7 @@
 layout: post
 class: 6
 excerpt: "..."
-title:  "Grids + Frameworks"
+title:  "Frameworks"
 date:   2015-03-28
 categories: class
 ---

@@ -9,6 +9,8 @@ categories: class
 
 ## The Plan
 
+Look at some links and current events.
+
 #### <span class="post-title-pre">Lecture:</span> Review Readings
 
 * Define Separation of Concerns and Progressive Enhancement

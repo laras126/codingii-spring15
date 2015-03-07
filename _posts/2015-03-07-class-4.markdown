@@ -1,7 +1,7 @@
 ---
 layout: post
 class: 4
-excerpt: "..."
+excerpt: "It's the jam. Let's talk mobile first, media queries, and do a CSS layout exercise. WTF is clearfix, anyway?"
 title:  "Responsive Design"
 date:   2015-03-07
 categories: class
@@ -9,10 +9,49 @@ categories: class
 
 ## The Plan
 
-...
+#### <span class="post-title-pre">Discuss:</span> Responsive Design
+
+* What is mobile first?
+* How does this relate back to the idea of Progressive Enhancement?
+
+#### <span class="post-title-pre">Demo:</span> Assignment 1 Q/A
+
+* Anything in particular?
+* Review classes and reusing classes
+
+#### <span class="post-title-pre">Pair:</span> Floats exercise
+
+* [Download these files](http://stuff.notlaura.com/downloads/layout-exercise)
+* Start together by adding some markup and initial layout in the media query
+
+#### Break
+
+#### <span class="post-title-pre">Together:</span> Profile page
+
+* Add layout to the profile page (emailed the files if you need them)
+
+
+<div class="notice post-todos" markdown="1">
 
 ### For Next Time
 
-* Begin Assignment 2
+#### Readings:
 
-...
+* Watch these:
+	* [CSS Frameworks](https://www.youtube.com/watch?v=zJ78W_kdmCA) - lynda.com teaser
+	* [What is a grid?](https://www.youtube.com/watch?v=0IrWRuEyXYA) - another lynda.com teaser
+* [Bootstrap tutorial on W3Schools](http://www.w3schools.com/bootstrap/default.asp)
+	* Glance through everything, particularly the [BS Grid System section](http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+* [Foundation tutorial](http://www.webdesignerdepot.com/2013/11/how-to-get-started-with-foundation-5/)
+
+#### Readings (read these second):
+
+* [Please Stop Using Twitter Bootstrap](http://notes.gross.is/post/43508972396/please-stop-using-twitter-bootstrap)
+* [Pros and Cons of Using Frameworks](http://themetaq.com/articles/the-pros-and-cons-of-using-a-front-end-framework)
+
+#### To do:
+
+* Add a paragraph about your final project on [this Google Doc](https://docs.google.com/document/d/1lEgnuRhR0kbu9Qw8iGglyt8uOK2IDTMzjuEj5jzXsKc/edit?usp=sharing)
+* Begin Assignment 2 (I will email it to you after class!)
+
+</div>
