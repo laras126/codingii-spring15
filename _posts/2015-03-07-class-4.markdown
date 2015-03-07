@@ -19,9 +19,8 @@ categories: class
 * Anything in particular?
 * Review classes and reusing classes
 
-#### <span class="post-title-pre">Pair:</span> Floats exercise
+#### <span class="post-title-pre">Together:</span> Profile page
 
-* [Download these files](http://stuff.notlaura.com/downloads/layout-exercise)
 * Start together by adding some markup and initial layout in the media query
 
 #### Break
@@ -51,7 +50,7 @@ categories: class
 
 #### To do:
 
+* Floats exercise: **[Download these files](http://stuff.notlaura.com/downloads/layout-exercise.zip) and email me a .zip**.
 * Add a paragraph about your final project on [this Google Doc](https://docs.google.com/document/d/1lEgnuRhR0kbu9Qw8iGglyt8uOK2IDTMzjuEj5jzXsKc/edit?usp=sharing)
-* Begin Assignment 2 (I will email it to you after class!)
 
 </div>
