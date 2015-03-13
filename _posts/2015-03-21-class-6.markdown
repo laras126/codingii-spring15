@@ -1,16 +1,15 @@
 ---
 layout: post
 class: 6
-excerpt: "..."
-title:  "Frameworks"
+excerpt: "Start working on final projects, code review and Q/A."
+title:  "Work Time"
 date:   2015-03-28
 categories: class
 ---
 
 ## The Plan
 
-...
+
 
 ### For Next Time
 
-...

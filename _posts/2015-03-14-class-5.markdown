@@ -1,7 +1,7 @@
 ---
 layout: post
 class: 5
-excerpt: "..."
+excerpt: "Look"
 title:  "Grids & Frameworks"
 date:   2015-03-14
 categories: class
@@ -9,8 +9,41 @@ categories: class
 
 ## The Plan
 
-...
+Look at links.
+
+#### <span class="post-title-pre">Discuss:</span> Readings
+
+* What's a framework, and why use one?
+* What are the pros and cons of using a framework?
+* When should you use it?
+
+#### <span class="post-title-pre">Demo:</span> Floats Exercise
+
+* Anyone want to present what they did for the blocks?
+* Code it together, discuss classes and where clearfixes go.
+
+#### Break
+
+#### <span class="post-title-pre">Together:</span> Grids and Frameworks
+
+* Look at 1140 grid
+* Recreate layout in Bootstrap, make it responsive
+
+#### <span class="post-title-pre">Independent:</span> Work on a Bootstrap site
+
+* Download the starter files
+* Get started with the grid together
+* Add some content, play around with class based styling
+* I'll come around for 1-on-1 Q/A and to discuss final projects
+
+
+<div class="post-todos notice" markdown="1">
 
 ### For Next Time
 
-...
+#### To do:
+
+* Begin [Assignment 2](https://prattcodingii.hackpad.com/Coding-11-Spring-15-Assignment-2-Xz5WRsr97jI), due before 4/11.
+* Paragraph about [final project here](https://docs.google.com/document/d/1lEgnuRhR0kbu9Qw8iGglyt8uOK2IDTMzjuEj5jzXsKc/edit?usp=sharing).
+
+</div>
