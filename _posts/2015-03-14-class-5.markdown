@@ -1,7 +1,7 @@
 ---
 layout: post
 class: 5
-excerpt: "Look"
+excerpt: ""
 title:  "Grids & Frameworks"
 date:   2015-03-14
 categories: class

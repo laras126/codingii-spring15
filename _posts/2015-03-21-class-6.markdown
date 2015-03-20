@@ -1,15 +1,50 @@
 ---
 layout: post
 class: 6
-excerpt: "Start working on final projects, code review and Q/A."
-title:  "Work Time"
-date:   2015-03-28
+excerpt: "Start working on final projects, talk a bit more about WordPress and how to customize it."
+title:  "Work Time & WordPress"
+date:   2015-03-21
 categories: class
 ---
 
 ## The Plan
 
+#### <span class="post-title-pre">Discuss:</span> Any particular questions?
 
+* Review floats and grids, demo any questions.
+
+#### <span class="post-title-pre">Work Time:</span> Assignments and Final Projects
+
+* Catch up on assignments, 1-on-1 help.
+* I'll come around to everyone individually to discuss final projects and come up with a game plan.
+* Get started on said game plan!
+
+#### Break
+
+Keep working, or discuss WordPress? If WordPress:
+
+#### <span class="post-title-pre">Lecture:</span> Child themes and best practices
+
+* Quick look at the Dashboard
+* Themes and best practices
+* What is a child theme?
+	* Demo making one
+	* style.css and functions.php
+* Talk about development workflow, e.g. installing a local server - can help 
+
+<div class="notice post-todos" markdown="1">
 
 ### For Next Time
 
+#### Readings:
+
+* [Shay Howe Lesson 6 (of Advanced HTML/CSS): jQuery](http://learn.shayhowe.com/advanced-html-css/jquery/)
+
+#### Todo:
+
+* Continue working on Assignment 2.
+* **Last opportunity to turn in Assignment 1**, must be completed before the next class.
+* Collect content for final project, continue working on what we started today - note: it's easy to put this off since it's not a structured exercise...don't do it! Email me if you aren't sure what to do next.
+
+
+</div>
