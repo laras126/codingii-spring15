@@ -1,8 +1,8 @@
 ---
 layout: post
 class: 9
-excerpt: "..."
-title:  "Work Time"
+excerpt: "Work time for final projects. Set up domain names, hosting, and FTP deployment for final projects. Install WordPress on server if necessary."
+title:  "Set up Hosting + Work Time"
 date:   2015-04-18
 categories: class
 ---

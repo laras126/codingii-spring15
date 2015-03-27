@@ -1,8 +1,8 @@
 ---
 layout: post
 class: 8
-excerpt: "..."
-title:  "Plugins + Best Practices"
+excerpt: "Passing data to the server via forms with PHP and JS. Discuss form states and APIs."
+title:  "Forms"
 date:   2015-04-11
 categories: class
 ---

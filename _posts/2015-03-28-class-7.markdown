@@ -55,11 +55,7 @@ Check in on final projects, go over next steps.
 
 #### Todos
 
-* Work on final projects, will be a check-in next time.
-
-#### Readings
-
-
+* Work on final projects, be ready for a big check-in next time.
+* Work through jQuery Assignment 3 - optional.
 
 </div>
-
