@@ -1,16 +1,65 @@
 ---
 layout: post
 class: 7
-excerpt: "..."
-title:  "JS and jQuery"
+excerpt: "Uh oh."
+title:  "Programming"
 date:   2015-03-28
 categories: class
 ---
 
 ## The Plan
 
-...
+#### <span class="post-title-pre">Discuss:</span> Look at links
+
+* Pick apart a few websites
+* Any current events to address?
+
+
+#### <span class="post-title-pre">Lecture:</span> Programming Concepts
+
+* Introduce concepts of variables, functions, and logic
+* Breaking down behavior
+* Noodling in the console and demoing concepts
+	* Variables 
+	* Types of data
+	* Arrays
+	* Functions
+	* Objects
+* Now create a JS file and do the same
+
+#### <span class="post-title-pre">Discuss:</span> Libraries and Dependencies
+
+* What is jQuery? Why use it? Why not?
+* Demo main jQuery concepts in file
+	* Selectors and chaining
+	* NOT like regular JavaScript, a language of it's own
+
+#### <span class="post-title-pre">Demo:</span> Use a plugin
+
+
+#### Break
+
+#### <span class="post-title-pre">Discuss:</span> Server side PHP
+
+* What's the difference?
+* Set up partials (can use MAMP or in c9.io) - starter files here.
+* Basic variables and functions, similar to JS but on the server
+
+#### <span class="post-title-pre">Work time:</span> Final Projects
+
+Check in on final projects, go over next steps.
+
+<div class="post-todos notice" markdown="1">
 
 ### For Next Time
 
-...
+#### Todos
+
+* Work on final projects, will be a check-in next time.
+
+#### Readings
+
+
+
+</div>
+
