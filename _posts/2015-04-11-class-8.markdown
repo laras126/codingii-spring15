@@ -2,15 +2,42 @@
 layout: post
 class: 8
 excerpt: "Passing data to the server via forms with PHP and JS. Discuss form states and APIs."
-title:  "Forms"
+title:  "PHP Templates & Forms"
 date:   2015-04-11
 categories: class
 ---
 
 ## The Plan
 
-...
+#### <span class="post-title-pre">Demos:</span> Questions? Review.
+
+#### <span class="post-title-pre">Together:</span> PHP for templating
+
+* Check in on where we left off last time
+* Types of databases
+* Introduce concept of templating
+* Implement PHP includes and a basic $page_name variable
+* Difference between PHP and JS templates
+
+#### <span class="post-title-pre">Lecture:</span> Forms and passing data
+
+* (May move this to next time if we are pressed for time)
+* Look at forms demo and real world examples
+	* Google
+* Passing data
+
+
+#### Final Projects Work Time/Q & A
+
+Second half of class we'll have some work time to check in on Final Projects
+
+<div class="post-todos notice" markdown="1">
 
 ### For Next Time
 
-...
+Next class we'll be setting up hosting and uploading our sites to the web. Use the links below for my referral code!
+
+* Purchase domain name ($10/year) - I recommend using [NameCheap](http://www.namecheap.com/?aff=85284)
+* Sign up for hosting ($8/mo) - I recommend either [Lithium Hosting](http://lithiumhosting.com/billing/aff.php?aff=479) ($1.95-$8.95/mo - recommend $6.95 plan) or [Webfaction](https://www.webfaction.com/?aid=73790) ($9.50/mo - has more developer functionality, slightly more expensive). 
+
+</div>
