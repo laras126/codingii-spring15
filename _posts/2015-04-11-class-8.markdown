@@ -22,7 +22,7 @@ categories: class
 #### <span class="post-title-pre">Lecture:</span> Forms and passing data
 
 * (May move this to next time if we are pressed for time)
-* Look at forms demo and real world examples
+* Look at [forms demo](http://stuff.notlaura.com/demos/php-form-demo.zip) and real world examples. [Download files](http://stuff.notlaura.com/demos/php-form-demo.zip) here if you want.
 	* Google
 * Passing data
 
