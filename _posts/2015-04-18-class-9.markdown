@@ -9,8 +9,14 @@ categories: class
 
 ## The Plan
 
-...
+Set up hosting and domain names, work time.
+
+Download [Cyberduck](https://cyberduck.io/?l=en) for FTP access.
+
+<div class="post-todos notice">
 
 ### For Next Time
 
-...
+Finish projects, and be ready to show them to everyone! We'll have some work and Q/A time.
+
+</div>
